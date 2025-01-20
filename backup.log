@@ -1,0 +1,254 @@
+sending incremental file list
+created directory /tmp/backup
+./
+authorized_key.json
+scan.sh
+Netology/
+Netology/pc.ovpn
+Netology/keepalived/
+Netology/keepaliveddz/
+Netology/keepaliveddz/README.md
+Netology/keepaliveddz/hsrp_dz.pkt
+Netology/keepaliveddz/keepalived.conf
+Netology/keepaliveddz/scan.sh
+Netology/keepaliveddz/scrn/
+Netology/keepaliveddz/scrn/hsrp.png
+Netology/keepaliveddz/scrn/scan1.png
+Netology/keepaliveddz/scrn/scan2.png
+Netology/klastbal/
+Netology/klastbal/README.md
+Netology/klastbal/haproxy.cfg
+Netology/klastbal/pyserver1/
+Netology/klastbal/pyserver1/index.html
+Netology/klastbal/pyserver2/
+Netology/klastbal/pyserver2/index.html
+Netology/klastbal/pyserver3/
+Netology/klastbal/pyserver3/index.html
+Netology/klastbal/scrn/
+Netology/klastbal/scrn/z1.png
+Netology/klastbal/scrn/z2.png
+Netology/monitoring/
+Netology/monitoring/README.md
+Netology/monitoring/md-instruction.md
+Netology/monitoring/screen-instruction.md
+Netology/monitoring/img/
+Netology/monitoring/img/img15.png
+Netology/monitoring/img/img16.png
+Netology/monitoring/img/img17.png
+Netology/monitoring/img/img18.png
+Netology/monitoring/img/img19.png
+Netology/monitoring/img/img20.png
+Netology/monitoring/scrn/
+Netology/monitoring/scrn/1.png
+Netology/monitoring/scrn/2.png
+Netology/monitoring/scrn/3.png
+Netology/monitoring/scrn/4.png
+Netology/monitoring/scrn/5.png
+Netology/monitoring2-/
+Netology/monitoring2-/README.md
+Netology/monitoring2-/scrn/
+Netology/monitoring2-/scrn/1.png
+Netology/monitoring2-/scrn/2.png
+Netology/monitoring2-/scrn/3.png
+Netology/monitoring2-/scrn/4.png
+Netology/rsync/
+Netology/rsync/README.md
+Netology/rsync/backup.log
+Netology/rsync/backup.sh
+Netology/rsync/scrn/
+Netology/rsync/scrn/1.png
+Netology/rsync/scrn/2.png
+Netology/rsync/scrn/3.png
+Netology/terraformtest/
+Netology/terraformtest/README.md
+Netology/terraformtest/ansible.cfg
+Netology/terraformtest/authorized_key.json
+Netology/terraformtest/caryandex.tf
+Netology/terraformtest/cloud-init.yml
+Netology/terraformtest/terraform.tfstate
+Netology/terraformtest/terraform.tfstate.backup
+Netology/terraformtest/test.yml
+Netology/terraformyandex /
+Netology/terraformyandex /README.MD
+Netology/terraformyandex /ansible.cfg
+Netology/terraformyandex /caryandex.tf
+Netology/terraformyandex /cloud-init.yml
+Netology/terraformyandex /cloud.UP.pdf
+Netology/terraformyandex /hosts.ini
+Netology/terraformyandex /network.tf
+Netology/terraformyandex /providers.tf
+Netology/terraformyandex /test.yml
+Netology/terraformyandex /variables.tf
+Netology/terraformyandex /vms.tf
+Netology/z1/
+Netology/z1/ansible.cfg
+Netology/z1/hosts
+Netology/z1/playbook.yaml
+Netology/z2/
+Netology/z2/ansible.cfg
+Netology/z2/hosts
+Netology/z2/playbook.yaml
+Netology/z3/
+Netology/z3/30-say
+Netology/z3/ansible.cfg
+Netology/z3/hosts
+Netology/z3/playbook.yaml
+Netology/z4/
+Netology/z4/ansible.cfg
+Netology/z4/hosts
+Netology/z4/playbook.yaml
+Netology/z4/roles/
+Netology/z4/roles/role1/
+Netology/z4/roles/role1/README.md
+Netology/z4/roles/role1/defaults/
+Netology/z4/roles/role1/defaults/main.yml
+Netology/z4/roles/role1/files/
+Netology/z4/roles/role1/handlers/
+Netology/z4/roles/role1/handlers/main.yml
+Netology/z4/roles/role1/meta/
+Netology/z4/roles/role1/meta/main.yml
+Netology/z4/roles/role1/tasks/
+Netology/z4/roles/role1/tasks/main.yml
+Netology/z4/roles/role1/templates/
+Netology/z4/roles/role1/templates/index.html.j2
+Netology/z4/roles/role1/tests/
+Netology/z4/roles/role1/tests/inventory
+Netology/z4/roles/role1/tests/test.yml
+Netology/z4/roles/role1/vars/
+Netology/z4/roles/role1/vars/main.yml
+dzdevops/
+dzdevops/README.md
+dzdevops/pipeline
+dzdevops/pipeline2
+dzdevops/foto/
+dzdevops/foto/1.png
+dzdevops/foto/2.png
+dzdevops/foto/3.png
+dzdevops/foto/4.png
+dzdevops/foto/5.png
+dzdevops/foto/6.png
+dzdevops/foto/7.png
+dzdevops/foto/8.png
+dzdevops/foto/9.png
+dzgit/
+dzgit/Netology_Git/
+dzgit/Netology_Git/README.md
+dzgit/Netology_Git/main.sh
+dzgit/Netology_Git/test.sh
+dzgit/Netology_Git/foto/
+dzgit/Netology_Git/foto/1.png
+dzgit/Netology_Git/foto/2.png
+dzgit/Netology_Git/foto/3.png
+dzgit/Netology_Git/foto/4.png
+dzgit/Netology_Git/foto/5.png
+dzgit/Netology_Git/foto/6.png
+dzgit/Netology_Git/foto/7.png
+dzgit/Netology_Git/foto/8.png
+yandexcl/
+yandexcl/6-01.md
+yandexcl/6-02-new.md
+yandexcl/6-02.md
+yandexcl/6-03-new.md
+yandexcl/6-03.md
+yandexcl/6-04-new.md
+yandexcl/6-04.md
+yandexcl/6-05-new.md
+yandexcl/6-05.md
+yandexcl/6-06-new.md
+yandexcl/6-06.md
+yandexcl/7-01.Vagrantfile
+yandexcl/7-01.md
+yandexcl/7-01.part_2.md
+yandexcl/7-01.playbook.yml
+yandexcl/7-02-new.md
+yandexcl/7-02.md
+yandexcl/7-03.md
+yandexcl/8-01.md
+yandexcl/8-02.md
+yandexcl/8-03.md
+yandexcl/README.md
+yandexcl/lecture_demos/
+yandexcl/lecture_demos/6-03/
+yandexcl/lecture_demos/6-03/Dockerfile
+yandexcl/lecture_demos/6-03/index.html
+yandexcl/lecture_demos/6-04/
+yandexcl/lecture_demos/6-04/alertmanager/
+yandexcl/lecture_demos/6-04/alertmanager/alertmanager.yml
+yandexcl/lecture_demos/6-04/grafana/
+yandexcl/lecture_demos/6-04/grafana/custom.ini
+yandexcl/lecture_demos/6-04/lecture_demos/
+yandexcl/lecture_demos/6-04/lecture_demos/demo1/
+yandexcl/lecture_demos/6-04/lecture_demos/demo1/README.MD
+yandexcl/lecture_demos/6-04/lecture_demos/demo1/alert_rules.yml
+yandexcl/lecture_demos/6-04/lecture_demos/demo1/custom.ini
+yandexcl/lecture_demos/6-04/lecture_demos/demo1/prometheus.yml
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/Dockerfile
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/README.md
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/docker-compose.yml
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/game.py
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/onlinesnake.template
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/requirements.txt
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/snake.py
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/web/
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/web/controls.js
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/web/game.js
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/web/index.html
+yandexcl/lecture_demos/6-04/lecture_demos/demo2/web/style.css
+yandexcl/lecture_demos/6-04/lecture_demos/demo3/
+yandexcl/lecture_demos/6-04/lecture_demos/demo3/_ docker_run.sh
+yandexcl/lecture_demos/6-04/lecture_demos/demo3/compose.yaml
+yandexcl/lecture_demos/6-04/lecture_demos/demo3/default.conf
+yandexcl/lecture_demos/6-04/lecture_demos/demo3/nginx.dockerfile
+yandexcl/lecture_demos/6-04/lecture_demos/demo4/
+yandexcl/lecture_demos/6-04/lecture_demos/demo4/awesome.sh
+yandexcl/lecture_demos/6-04/lecture_demos/demo4/prometheus/
+yandexcl/lecture_demos/6-04/prometheus/
+yandexcl/lecture_demos/6-04/prometheus/prometheus.yml
+yandexcl/lecture_demos/7-02/
+yandexcl/lecture_demos/7-02/README.MD
+yandexcl/lecture_demos/7-02/main.tf
+yandexcl/lecture_demos/7-02/providers.tf
+yandexcl/lecture_demos/7-02/variables.tf
+yandexcl/lecture_demos/7-03/
+yandexcl/lecture_demos/7-03/README.MD
+yandexcl/lecture_demos/7-03/ansible.cfg
+yandexcl/lecture_demos/7-03/cloud-init.yml
+yandexcl/lecture_demos/7-03/cloud.UP.pdf
+yandexcl/lecture_demos/7-03/hosts.ini
+yandexcl/lecture_demos/7-03/network.tf
+yandexcl/lecture_demos/7-03/providers.tf
+yandexcl/lecture_demos/7-03/test.yml
+yandexcl/lecture_demos/7-03/variables.tf
+yandexcl/lecture_demos/7-03/vms.tf
+yandexcl/recommend/
+yandexcl/recommend/README.md
+Видео/
+Документы/
+Загрузки/
+Загрузки/LICENSE.txt
+Загрузки/go1.23.3.linux-amd64.tar.gz
+Загрузки/terraform
+Загрузки/terraform_1.9.8_linux_amd64.zip
+Изображения/
+Изображения/Снимки экрана/
+Изображения/Снимки экрана/1.png
+Изображения/Снимки экрана/10.png
+Изображения/Снимки экрана/11.png
+Изображения/Снимки экрана/2.png
+Изображения/Снимки экрана/3.png
+Изображения/Снимки экрана/4.png
+Изображения/Снимки экрана/5.png
+Изображения/Снимки экрана/6.png
+Изображения/Снимки экрана/7.png
+Изображения/Снимки экрана/8.png
+Изображения/Снимки экрана/9.png
+Изображения/Снимки экрана/Снимок экрана от 2025-01-20 19-50-42.png
+Музыка/
+Общедоступные/
+Рабочий стол/
+Шаблоны/
+
+sent 200.832.870 bytes  received 3.897 bytes  401.673.534,00 bytes/sec
+total size is 200.767.888  speedup is 1,00
+ Резервное копирование от: Пн 20 янв 2025 20:00:01 MSK 
